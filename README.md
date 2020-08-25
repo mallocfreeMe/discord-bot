@@ -1,12 +1,9 @@
 <h1> discordBot</h1>
-<h2>Overview</h2>
 A simple discord bot written in node.js<br><br>
-<img src="1.png" alt="demo 1"></img>
-
-<img src="2.png" alt="demo 2"></img>
-
-<img src="3.png" alt="demo 3"></img>
-
+<h2>Overview</h2>
+<img src="1.png" alt="demo 1" width="50%" height="50%"></img>
+<img src="2.png" alt="demo 2" width="50%" height="50%"></img>
+<img src="3.png" alt="demo 3" width="50%" height="50%"></img>
 <h2>How to use it</h2>
 <ul>
   <li>.ls -- list all the commands</li>
