@@ -1,5 +1,5 @@
 <h1> discordBot</h1>
-A simple discord bot written in node.js<br><br>
+A simple discord bot wrote in node.js<br><br>
 <h2>Overview</h2>
 <img src="3.png" alt="demo 3" width="50%" height="50%"></img>
 <h2>How to use it</h2>
