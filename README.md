@@ -1,6 +1,6 @@
 # discordBot
 
-A simple discord bot written in node.js
+A simple discord bot written in node.js<br>
 Its commands include:
 <ul>
   <li>.ls -- list all the commands</li>
